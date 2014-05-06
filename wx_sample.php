@@ -141,13 +141,13 @@ class wechatCallbackapiTest
             case "图文":
             case "单图文":
                 $content = array();
-                $content[] = array("Title"=>"反脆弱:从不确定性中获益", "Description"=>"纳西姆•尼古拉斯•塔勒布", "PicUrl"=>"", "Url" =>"");
+                $content[] = array("Title"=>"反脆弱:从不确定性中获益", "Description"=>"纳西姆•尼古拉斯•塔勒布", "PicUrl"=>"", "Url" =>"http://www.amazon.cn/gp/product/B00IDU149A/ref=as_li_ss_tl?ie=UTF8&camp=536&creative=3132&creativeASIN=B00IDU149A&linkCode=as2&tag=nolandomain06-23");
                 break;
             case "多图文":
                 $content = array();
-                $content[] = array("Title"=>"反脆弱:从不确定性中获益", "Description"=>"纳西姆•尼古拉斯•塔勒布", "PicUrl"=>"", "Url" =>"");
-                $content[] = array("Title"=>"沃顿商学院最实用的谈判课", "Description"=>"（美）G. 理查德•谢尔", "PicUrl"=>"", "Url" =>"");
-                $content[] = array("Title"=>"了不起的盖茨比", "Description"=>"斯科特·菲茨杰拉德 (Francis Scott Fitzgerald)", "PicUrl"=>"", "Url" =>"");
+                $content[] = array("Title"=>"反脆弱:从不确定性中获益", "Description"=>"纳西姆•尼古拉斯•塔勒布", "PicUrl"=>"", "Url" =>"http://www.amazon.cn/gp/product/B00IDU149A/ref=as_li_ss_tl?ie=UTF8&camp=536&creative=3132&creativeASIN=B00IDU149A&linkCode=as2&tag=nolandomain06-23");
+                $content[] = array("Title"=>"沃顿商学院最实用的谈判课", "Description"=>"（美）G. 理查德•谢尔", "PicUrl"=>"", "Url" =>"http://www.amazon.cn/gp/product/B00FVS0L00/ref=as_li_ss_tl?ie=UTF8&camp=536&creative=3132&creativeASIN=B00FVS0L00&linkCode=as2&tag=nolandomain06-23");
+                $content[] = array("Title"=>"了不起的盖茨比", "Description"=>"斯科特·菲茨杰拉德 (Francis Scott Fitzgerald)", "PicUrl"=>"", "Url" =>"http://www.amazon.cn/gp/product/B00EK865WK/ref=as_li_ss_tl?ie=UTF8&camp=536&creative=3132&creativeASIN=B00EK865WK&linkCode=as2&tag=nolandomain06-23");
                 break;
             case "音乐":
                 $content = array("Title"=>"最炫民族风", "Description"=>"歌手：凤凰传奇", "MusicUrl"=>"http://121.199.4.61/music/zxmzf.mp3", "HQMusicUrl"=>"http://121.199.4.61/music/zxmzf.mp3");
