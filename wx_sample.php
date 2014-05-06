@@ -145,9 +145,9 @@ class wechatCallbackapiTest
                 break;
             case "多图文":
                 $content = array();
-                $content[] = array("Title"=>"多图文1标题", "Description"=>"", "PicUrl"=>"http://discuz.comli.com/weixin/weather/icon/cartoon.jpg", "Url" =>"http://m.cnblogs.com/?u=txw1958");
-                $content[] = array("Title"=>"多图文2标题", "Description"=>"", "PicUrl"=>"http://d.hiphotos.bdimg.com/wisegame/pic/item/f3529822720e0cf3ac9f1ada0846f21fbe09aaa3.jpg", "Url" =>"http://m.cnblogs.com/?u=txw1958");
-                $content[] = array("Title"=>"多图文3标题", "Description"=>"", "PicUrl"=>"http://g.hiphotos.bdimg.com/wisegame/pic/item/18cb0a46f21fbe090d338acc6a600c338644adfd.jpg", "Url" =>"http://m.cnblogs.com/?u=txw1958");
+                $content[] = array("Title"=>"反脆弱:从不确定性中获益", "Description"=>"纳西姆•尼古拉斯•塔勒布", "PicUrl"=>"http://ec4.images-amazon.com/images/I/41FFkS5j2%2BL._AA278_PIkin4,BottomRight,-39,22_AA300_SH20_OU28_.jpg", "Url" =>"http://www.amazon.cn/gp/product/B00IDU149A/ref=as_li_ss_tl?ie=UTF8&camp=536&creative=3132&creativeASIN=B00IDU149A&linkCode=as2&tag=nolandomain06-23");
+                $content[] = array("Title"=>"沃顿商学院最实用的谈判课", "Description"=>"（美）G. 理查德•谢尔", "PicUrl"=>"http://ec4.images-amazon.com/images/I/41NZdI7Vq4L._AA278_PIkin4,BottomRight,-42,22_AA300_SH20_OU28_.jpg", "Url" =>"http://www.amazon.cn/gp/product/B00FVS0L00/ref=as_li_ss_tl?ie=UTF8&camp=536&creative=3132&creativeASIN=B00FVS0L00&linkCode=as2&tag=nolandomain06-23");
+                $content[] = array("Title"=>"了不起的盖茨比", "Description"=>"斯科特·菲茨杰拉德 (Francis Scott Fitzgerald)", "PicUrl"=>"http://ec4.images-amazon.com/images/I/51IxudCtkEL._AA278_PIkin4,BottomRight,-42,22_AA300_SH20_OU28_.jpg", "Url" =>"http://www.amazon.cn/gp/product/B00EK865WK/ref=as_li_ss_tl?ie=UTF8&camp=536&creative=3132&creativeASIN=B00EK865WK&linkCode=as2&tag=nolandomain06-23");
                 break;
             case "音乐":
                 $content = array("Title"=>"最炫民族风", "Description"=>"歌手：凤凰传奇", "MusicUrl"=>"http://121.199.4.61/music/zxmzf.mp3", "HQMusicUrl"=>"http://121.199.4.61/music/zxmzf.mp3");
