@@ -141,7 +141,7 @@ class wechatCallbackapiTest
             case "图文":
             case "单图文":
                 $content = array();
-                $content[] = array("Title"=>"单图文标题",  "Description"=>"单图文内容", "PicUrl"=>"http://discuz.comli.com/weixin/weather/icon/cartoon.jpg", "Url" =>"http://m.cnblogs.com/?u=txw1958");
+                $content[] = array("Title"=>"反脆弱:从不确定性中获益", "Description"=>"纳西姆•尼古拉斯•塔勒布", "PicUrl"=>"http://ec4.images-amazon.com/images/I/41FFkS5j2%2BL._AA278_PIkin4,BottomRight,-39,22_AA300_SH20_OU28_.jpg", "Url" =>"http://www.amazon.cn/gp/product/B00IDU149A/ref=as_li_ss_tl?ie=UTF8&camp=536&creative=3132&creativeASIN=B00IDU149A&linkCode=as2&tag=nolandomain06-23");
                 break;
             case "多图文":
                 $content = array();
