@@ -4,9 +4,7 @@
   */
 
 //define your token
-
-echo "hello wechat will verify will";
-define("TOKEN", "shuaiwei");
+define("TOKEN", "weixin");
 $wechatObj = new wechatCallbackapiTest();
 $wechatObj->valid();
 
@@ -55,7 +53,7 @@ class wechatCallbackapiTest
                 }
 
         }else {
-        	echo "try again shuaiwei";
+        	echo "";
         	exit;
         }
     }
